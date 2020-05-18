@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/adnanh/webhook",
+	"ImportPath": "github.com/proj4spes/gowebhook",
 	"GoVersion": "go1.9",
 	"GodepVersion": "v79",
 	"Deps": [
