@@ -18,7 +18,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/adnanh/webhook/hook"
+	"github.com/proj4spes/gowebhook/hook"
 )
 
 func TestStaticParams(t *testing.T) {
